@@ -19,3 +19,29 @@ productDefference = num_1 - num_2
 print("Sum Result : ", sumResult  )
 print("Sum Product Result : ", sumProductResult)
 print("Product Defference : ", productDefference)
+
+
+
+
+
+'''
+Write the Python code of a program that reads two numbers from the user. The program should then
+print "First is greater" if the first number is greater, "Second is greater" if the second number is
+greater, and "The numbers are equal" otherwise.
+==========================================================
+Sample Input 1:
+7
+3
+Sample Output 1:
+First is greater
+'''
+
+x = 7 
+y = 3
+
+if x > y:
+    print("First is Greater")
+elif x < y:
+    print("Second is Greater")
+else:
+    print("The numbers are Equal")
