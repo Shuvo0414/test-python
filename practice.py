@@ -36,6 +36,7 @@ Sample Output 1:
 First is greater
 '''
 
+#Sample Input for two number:
 x = 7 
 y = 3
 
